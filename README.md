@@ -29,10 +29,14 @@ This project focuses on analyzing mobile sales data and creating an interactive 
 ### Main Dashboard
 ![Dashboard Overview](Dashboard.png)
 
-### MTD Report
+## 🔍 Key Insights
 
-![MTD Report](MTD Report.png)
+- Total sales reached approximately **769M** across **19K units** and **4K transactions** in the overall dashboard view.
+- Sales performance was analyzed across different mobile brands, models, and cities.
+- Payment methods showed a relatively balanced distribution across UPI, debit card, and credit card.
+- Monthly and year-over-year analysis was used to compare sales performance over time.
+- MTD analysis provides a view of cumulative sales performance throughout each month.
 
-### Same Period Last Year
+## 🎯 Project Objective
 
-![Same Period Last Year](Same period last year.png)
+To transform raw mobile sales data into an interactive business intelligence dashboard that enables users to monitor performance, explore trends, and compare sales across different dimensions.
